@@ -16,6 +16,3 @@
    - Added support for all common template parameter aliases (`to_email`, `email`, `user_email`, `student_name`, `order_number`, `canteen`, `pickup_slot`, `total`, `message`, `summary`).
    - Added "Token Saver Mode" toggle in Admin → Integrations.
    - Added real notification email input during student checkout so real emails can be delivered to actual personal inboxes (e.g. Gmail).
-
-## How to Run
-Create a folder, paste the 4 files into it, and open `index.html` with VS Code Live Server or double-click to open in any web browser.
